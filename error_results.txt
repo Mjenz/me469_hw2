@@ -1,0 +1,97 @@
+Dead reckoning baseline:
+Average DR x error: 3.4522845358236927
+Average DR y error: 4.236679213693724
+Average DR theta error: 1.7081435449839315
+std DR x error: 2.408594166894494
+std DR y error: 2.5494318873940505
+std DR theta error: 1.5728322296622848
+tau:0.5, lam: 1e-06
+
+ds1 part 1 unscaled
+Average ML x error: 0.6945071177110618
+Average ML y error: 0.764356690668197
+Average ML theta error: 0.8800889649453996
+std ML x error: 0.45622415756966705
+std ML y error: 0.46448707184993626
+std ML theta error: 1.6387839691080333
+Average DR x error: 2.0680257599803284
+Average DR y error: 2.292171812569323
+Average DR theta error: 2.3968258182298268
+std DR x error: 1.6369194988696107
+std DR y error: 1.7481187587675344
+std DR theta error: 1.4416193663992078
+tau:0.01, lam: 1e-06
+
+ds1 part 1 DR
+Average ML x error: 0.697862357508432
+Average ML y error: 0.7486991348399091
+Average ML theta error: 0.5428273804316402
+std ML x error: 0.72786175247727
+std ML y error: 0.4880533469690754
+std ML theta error: 1.2076267730992951
+Average DR x error: 2.0680257599803284
+Average DR y error: 2.292171812569323
+Average DR theta error: 2.3968258182298268
+std DR x error: 1.6369194988696107
+std DR y error: 1.7481187587675344
+std DR theta error: 1.4416193663992078
+tau:0.5, lam: 1e-06
+
+ds1 part 2 unscaled
+Average ML x error: 0.7903527978011833
+Average ML y error: 1.5012302635249368
+Average ML theta error: 0.7132253237755135
+std ML x error: 1.0799393969748814
+std ML y error: 1.0042458009335042
+std ML theta error: 1.4085686574052576
+Average DR x error: 1.7441955283091346
+Average DR y error: 2.22130942837922
+Average DR theta error: 1.3202897055920777
+std DR x error: 1.7357984552135806
+std DR y error: 1.874251089790536
+std DR theta error: 1.6478522734717822
+tau:0.01, lam: 1e-06
+
+ds1 part 2 DR
+Average ML x error: 0.9159532247559838
+Average ML y error: 2.350343376436961
+Average ML theta error: 0.7787954226948895
+std ML x error: 0.9715418975609723
+std ML y error: 1.4558968014482498
+std ML theta error: 1.4184110744811051
+Average DR x error: 1.7441955283091346
+Average DR y error: 2.22130942837922
+Average DR theta error: 1.3202897055920777
+std DR x error: 1.7357984552135806
+std DR y error: 1.874251089790536
+std DR theta error: 1.6478522734717822
+tau:0.5, lam: 1e-06
+
+ds1 part 3 unscaled
+Average ML x error: 1.1335689233311317
+Average ML y error: 1.657690393242634
+Average ML theta error: 1.0770785338355724
+std ML x error: 1.448352623308847
+std ML y error: 1.0024010168226378
+std ML theta error: 1.4997445931380353
+Average DR x error: 1.4526986241818258
+Average DR y error: 5.294458603175429
+Average DR theta error: 1.696582032871725
+std DR x error: 1.2395557710403136
+std DR y error: 3.7427992713435816
+std DR theta error: 1.1998446920953303
+tau:0.01, lam: 1e-06
+
+ds1 part 3 DR
+Average ML x error: 1.179239814059956
+Average ML y error: 1.6527218251355755
+Average ML theta error: 1.1524266040031377
+std ML x error: 1.5001090507492933
+std ML y error: 1.0446063584437402
+std ML theta error: 1.472798664931853
+Average DR x error: 1.4526986241818258
+Average DR y error: 5.294458603175429
+Average DR theta error: 1.696582032871725
+std DR x error: 1.2395557710403136
+std DR y error: 3.7427992713435816
+std DR theta error: 1.1998446920953303
